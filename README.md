@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-UCB sophomore
-Major: Physics, Applied Math
+UCB sophomore \n
+Major: Physics, Applied Math \n
 I'm working on:
   - physics 77 project
 <!--
