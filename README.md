@@ -2,8 +2,7 @@
 
 UCB sophomore <br>
 Major: Physics, Applied Math <br>
-I'm working on:
-  - physics 77 project
+
 <!--
 **Jaasson/Jaasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
